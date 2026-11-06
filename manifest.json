@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "database_schema": 2,
+  "region": "bac-bo",
+  "version": 2026110401,
+  "source_date": "2026-11-04",
+  "min_app_version": 3,
+  "database_url": "https://github.com/baokhanh225/car-launcher-data/releases/download/db-20261104/bac-bo.sqlite.gz",
+  "package_size": 727150443,
+  "package_sha256": "6569aea5761b27205410f1e76aee0ba5f734ae24b781035aa51c592e0c0f2489",
+  "database_size": 1792327680,
+  "database_sha256": "dc262cc90bf047b038e295d905abef88f0bb826dd51d369d6e67358ded8240f6",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0"
+}
